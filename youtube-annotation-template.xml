@@ -1,0 +1,77 @@
+<document>
+<annotations>
+<annotation author="" id="annotation_1345982931" style="popup" type="text">
+<segment>
+<movingRegion type="rect">
+<rectRegion d="0" h="49.4510002136" t="${timecode}" w="50.1189994812" x="0.0" y="0.0"/>
+<rectRegion d="0" h="49.4510002136" t="01:01:00.000" w="50.1189994812" x="0.0" y="0.0"/>
+</movingRegion>
+</segment>
+<action trigger="click" type="openUrl">
+<url link_class="1" target="current" value="${annotation1}"/>
+</action>
+<appearance bgAlpha="0.25" bgColor="0" borderAlpha="0.10000000149" effects="" fgColor="16777215" textSize="3.911599999999999"/>
+</annotation>
+<annotation author="" id="annotation_2846392641" style="popup" type="text">
+<segment>
+<movingRegion type="rect">
+<rectRegion d="0" h="50.8590011597" t="${timecode}" w="50.2379989624" x="49.7620010376" y="0.0"/>
+<rectRegion d="0" h="50.8590011597" t="01:01:00.000" w="50.2379989624" x="49.7620010376" y="0.0"/>
+</movingRegion>
+</segment>
+<action trigger="click" type="openUrl">
+<url link_class="1" target="current" value="${annotation2}"/>
+</action>
+<appearance bgAlpha="0.25" bgColor="0" borderAlpha="0.10000000149" effects="" fgColor="16777215" textSize="3.911599999999999"/>
+</annotation>
+<annotation author="" id="annotation_4251463057" style="popup" type="text">
+<segment>
+<movingRegion type="rect">
+<rectRegion d="0" h="50.7039985657" t="${timecode}" w="49.9599990845" x="0.0" y="49.2960014343"/>
+<rectRegion d="0" h="50.7039985657" t="01:01:00.000" w="49.9599990845" x="0.0" y="49.2960014343"/>
+</movingRegion>
+</segment>
+<action trigger="click" type="openUrl">
+<url link_class="1" target="current" value="${annotation3}"/>
+</action>
+<appearance bgAlpha="0.25" bgColor="0" borderAlpha="0.10000000149" effects="" fgColor="16777215" textSize="3.911599999999999"/>
+</annotation>
+<annotation author="" id="annotation_451646929" style="popup" type="text">
+<segment>
+<movingRegion type="rect">
+<rectRegion d="0" h="17.9009990692" t="${timecode}" w="39.033000946" x="54.9920005798" y="79.7180023193"/>
+<rectRegion d="0" h="17.9009990692" t="01:01:00.000" w="39.033000946" x="54.9920005798" y="79.7180023193"/>
+</movingRegion>
+</segment>
+<action trigger="click" type="openUrl">
+<url link_class="5" target="new" value="http://www.youtube.com/user/wpwatercooler?sub_confirmation=1"/>
+</action>
+<appearance bgAlpha="0.25" bgColor="0" borderAlpha="0.10000000149" effects="" fgColor="16777215" textSize="3.911599999999999"/>
+</annotation>
+<annotation author="" id="annotation_633079997" style="popup" type="text">
+<segment>
+<movingRegion type="rect">
+<rectRegion d="0" h="26.0699996948" t="${timecode}" w="39.1920013428" x="54.8339996338" y="51.2680015564"/>
+<rectRegion d="0" h="26.0699996948" t="01:01:00.000" w="39.1920013428" x="54.8339996338" y="51.2680015564"/>
+</movingRegion>
+</segment>
+<action trigger="click" type="openUrl">
+<url link_class="6" target="new" trusted="true" value="http://www.wpwatercooler.com"/>
+</action>
+<appearance bgAlpha="0.25" bgColor="0" borderAlpha="0.10000000149" effects="" fgColor="16777215" textSize="3.911599999999999"/>
+</annotation>
+<annotation author="" id="annotation_933418213" style="popup" type="text">
+<TEXT>Click to subscribe to WPwatercooler</TEXT>
+<segment>
+<movingRegion type="rect">
+<rectRegion d="0" h="17.8950004578" t="0:00.000" w="39.1850013733" x="0.0" y="0.0"/>
+<rectRegion d="0" h="17.8950004578" t="0:30.000" w="39.1850013733" x="0.0" y="0.0"/>
+</movingRegion>
+</segment>
+<action trigger="click" type="openUrl">
+<url link_class="5" target="new" value="http://www.youtube.com/user/wpwatercooler?sub_confirmation=1"/>
+</action>
+<appearance bgAlpha="0.25" bgColor="0" borderAlpha="0.10000000149" effects="" fgColor="16777215" textSize="8.424966666666666"/>
+</annotation>
+</annotations>
+</document>

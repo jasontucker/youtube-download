@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_3217828331" type="text" style="popup" log_data="a-id=annotation_3217828331&amp;l-class=1&amp;xble=1&amp;len-sec=90&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeLmkhu7dQgM">
+
+<segment>
+<movingRegion type="rect">
+<rectRegion x="0.00000" y="49.01400" w="49.64300" h="50.42300" t="29:28"/>
+<rectRegion x="0.00000" y="49.01400" w="49.64300" h="50.42300" t="1:00:00.000"/>
+</movingRegion>
+</segment>
+<appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+
+</appearance>
+
+<action type="openUrl" trigger="click">
+<url target="current" value="https://www.youtube.com/watch?v=P9Y0Ca9xjxI"  link_class="1"/>
+</action>
+
+</annotation>
+
+<annotation id="annotation_3395859247" type="text" style="popup" log_data="a-id=annotation_3395859247&amp;l-class=1&amp;xble=1&amp;len-sec=90&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DENAuP4UU5I0">
+
+<segment>
+<movingRegion type="rect">
+<rectRegion x="50.07900" y="50.14100" w="49.92100" h="48.32400" t="29:28"/>
+<rectRegion x="50.07900" y="50.14100" w="49.92100" h="48.32400" t="1:00:00.000"/>
+</movingRegion>
+</segment>
+<appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+
+</appearance>
+
+<action type="openUrl" trigger="click">
+<url target="current" value="https://www.youtube.com/watch?v=iRbeFGPxVuk"  link_class="1"/>
+</action>
+
+</annotation>
+
+<annotation id="annotation_349055419" type="text" style="popup" log_data="a-id=annotation_349055419&amp;l-class=1&amp;xble=1&amp;len-sec=90&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP9Y0Ca9xjxI">
+
+<segment>
+<movingRegion type="rect">
+<rectRegion x="0.00000" y="0.00000" w="49.80200" h="49.73200" t="29:28"/>
+<rectRegion x="0.00000" y="0.00000" w="49.80200" h="49.73200" t="1:00:00.000"/>
+</movingRegion>
+</segment>
+<appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+
+</appearance>
+
+<action type="openUrl" trigger="click">
+<url target="current" value="https://www.youtube.com/watch?v=eLmkhu7dQgM"  link_class="1"/>
+</action>
+
+</annotation>
+
+<annotation id="annotation_3993153569" type="text" style="popup" log_data="a-id=annotation_3993153569&amp;l-class=1&amp;xble=1&amp;len-sec=90&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiRbeFGPxVuk">
+
+<segment>
+<movingRegion type="rect">
+<rectRegion x="49.76200" y="0.00000" w="50.23800" h="50.29600" t="29:28"/>
+<rectRegion x="49.76200" y="0.00000" w="50.23800" h="50.29600" t="1:00:00.000"/>
+</movingRegion>
+</segment>
+<appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+
+</appearance>
+
+<action type="openUrl" trigger="click">
+<url target="current" value="http://www.youtube.com/user/wpwatercooler?sub_confirmation=1"  link_class="1"/>
+</action>
+
+</annotation>
+
+<annotation id="annotation_522373089" type="text" style="popup" log_data="a-id=annotation_522373089&amp;l-class=5&amp;xble=1&amp;len-sec=120&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fwpwatercooler%3Fsub_confirmation%3D1">
+<TEXT>Like our videos?
+SUBSCRIBE</TEXT>
+<segment>
+<movingRegion type="rect">
+<rectRegion x="65.57100" y="0.00000" w="34.42900" h="19.57700" t="0:00.000"/>
+<rectRegion x="65.57100" y="0.00000" w="34.42900" h="19.57700" t="2:00.200"/>
+</movingRegion>
+</segment>
+<appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="8.424966666666666" effects="">
+
+</appearance>
+
+<action type="openUrl" trigger="click">
+<url target="new" value="http://www.youtube.com/user/wpwatercooler?sub_confirmation=1"  link_class="5"/>
+</action>
+
+</annotation>
+
+<annotation id="channel:b42f7f36-e69-281e-836e-f46d043bdf2c" style="branding" type="custom" log_data="img-type=0&amp;link-id=UCJwt6pUOwhJgmcJ9j-uS5Jw&amp;a-type=10&amp;xble=0&amp;len-sec=10">
+<data>{"image_height": 40, "channel_id": "UCJwt6pUOwhJgmcJ9j-uS5Jw", "image_width": 40, "end_ms": 30000, "subscription_token": "", "start_ms": 20000, "is_mobile": false, "image_url": "https:\/\/yt3.ggpht.com\/-TT5F2f1VZzA\/AAAAAAAAAAI\/AAAAAAAAAAA\/HM-0y1lvtDk\/s88-c-k-no\/photo.jpg", "channel_name": "WPwatercooler", "image_type": 0, "num_subscribers": "1,453 subscribers"}</data>
+<segment/>
+<action trigger="click" type="openUrl">
+<url type="hyperlink" target="current" value="http://www.youtube.com/user/WPwatercooler"/>
+</action>
+<html_blob>
+
+</html_blob>
+</annotation>
+
+<annotation id="channel:5325289d-0-2827-8c13-bcaec5171b21" style="website" type="custom" log_data="a-type=15&amp;xble=1&amp;l-class=15">
+<data>{"end_ms": 1806000, "start_ms": 0, "text_line_2": "Click to join live Q\u0026A on Google+ Hangouts", "text_line_1": "Be part of the conversation", "is_mobile": false, "image_url": "https:\/\/s.ytimg.com\/yts\/img\/annotations\/hangouts-vflBQxpjy.png", "collapse_delay_ms": 86400000}</data>
+<segment/>
+<action trigger="click" type="openUrl">
+<url type="hyperlink" target="new" value="https://plus.google.com/u/0/b/106955308896204723541/hangouts/onair/watch?hid=hoaevent/cvnjr5oohi0g2scie3nbb4erj60&amp;ytl=LXP41eXl4As&amp;wpsrc=yta"/>
+</action>
+</annotation>
